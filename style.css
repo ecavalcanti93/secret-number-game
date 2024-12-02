@@ -44,7 +44,7 @@ body::before {
     background-image: url("img/Ruido.png");
     background-size: 100% 100%;
     position: relative;
-    flex-direction: column;
+    /* flex-direction: column; */
 }
 
 
@@ -113,7 +113,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
+    font-size: 52px;
 }
 
 p,
@@ -139,7 +139,7 @@ button:disabled {
     .container{
         width: 80%;
         height: 100%;
-        margin-top: 3rem;
+        margin-top: 1rem;
     }
 
     .container__botao {

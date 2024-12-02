@@ -8,7 +8,7 @@ function exibirTexto (tag, texto) {
 }
 
 function msgInicial() {
-    exibirTexto("h1", "Secret Number Game");
+    // exibirTexto("h1", "Secret Number Game");
     exibirTexto("p", "Choose a number from 1 to 1000");
 }
     msgInicial();
